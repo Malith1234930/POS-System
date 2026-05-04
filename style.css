@@ -15,7 +15,7 @@
 
  /* Sidebar*/
  .sidebar {
-    width: 220px;
+    width: 180px;
     height: 100vh;
     background: #22c55e;
     padding: 20px;
@@ -37,4 +37,19 @@
     border-radius: 25px;
     cursor: pointer;
  }
+
+  .logout{
+    margin-top: 20px;
+  }
+
+  /*Main*/
+
+  .main {
+    flex: 1;
+    padding: 20px;
+  }
+
+
+
+
 
