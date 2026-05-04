@@ -49,6 +49,14 @@
     padding: 20px;
   }
 
+ /*Topbar*/
+
+ .topbar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+ }
+
 
 
 
